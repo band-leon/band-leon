@@ -4,7 +4,7 @@
 - 🎓 I'm a Le Wagon Data Analytics Bootcamp graduate
 - 🔭 My last project was the analysis of a Neobank data set
 - 🌱 I'm currently deepening my skills in Python and SQL
-- 👨‍💻 All of my projects are available [here]((https://github.com/band-leon?tab=repositories))
+- 👨‍💻 All of my projects are available [here]([url](https://github.com/band-leon?tab=repositories))
 - ⚡ Fun fact: I can touch my nose with my tongue
 
 ## Languages and Tools
