@@ -1,14 +1,15 @@
 ## Hi, I'm Leon 👋
-### Passionate about enabling companies making truly data-driven decisions by moving the data stack a core business priority
+### I automate the manual / boring stuff so my team can make the most of their time.
 
-- 🎓 I'm a Le Wagon Data Analytics Bootcamp graduate
-- 🔭 My last project was the analysis of a Neobank data set
-- 🌱 I'm currently deepening my skills in Python and SQL
+- 🎓 Le Wagon Data Analytics Bootcamp graduate, my final project was the analysis of a Neobank data set
+- 🔭 Currently working on automating manual processes to reduce the need to scale headcount to scale operations
+- 🌱 Deepening my skills in Python and SQL
 - ⚡ Fun fact: I can touch my nose with my tongue
 
 ## Languages and Tools
 
 - SQL: Google BigQuery, dbt
-- Python: Pandas / Scikit-learn / Seaborn / Plotly.Express, Airflow, 
+- Python: Pandas, Scikit-learn, Seaborn / Plotly.Express, Airflow, Playwright
 - (Reverse) ELT: (Census), Fivetran, Airbyte
 - Data Visualisation: Looker Studio, Power BI, Tableau
+- Low-/ No-Code Automation: UiPath Studio, Microsoft Power Automate, Zapier, Make
