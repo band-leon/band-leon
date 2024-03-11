@@ -1,5 +1,5 @@
 ## Hi, I'm Leon 👋
-### I automate the manual / boring stuff so my team can make the most out of their time.
+### I automate the boring stuff so my team can focus on what really matters.
 
 - 🎓 Le Wagon Data Analytics Bootcamp graduate, my final project was the analysis of a Neobank data set
 - 🔭 Currently working on automating manual processes to reduce the need to scale headcount to scale operations
